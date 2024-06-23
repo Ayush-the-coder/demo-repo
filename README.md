@@ -1,5 +1,5 @@
 # demo-repo
 This my first git repository
 <br>
-Author - Ayush Pahuja   
+Author - Ayush Kumar Pahuja   
 Gender - Male
