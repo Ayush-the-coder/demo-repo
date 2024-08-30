@@ -15,6 +15,7 @@ Author - **Ayush *Kumar*\* Pahuja**
 
 > This is quoted text.
 
+Here is a<br />line break
 
 count|fruits
 -|-
