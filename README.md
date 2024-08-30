@@ -3,4 +3,10 @@ This my first git repository
 <br>
 Author - **Ayush *Kumar*\* Pahuja**   
 ## Gender - Male
-![Link an image.](/learn/azure-devops/shared/media/mara.png)
+1. apple
+2. mango
+3. banana
+
+   - cheeku
+      - papaya
+   - oranges
