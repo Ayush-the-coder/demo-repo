@@ -16,6 +16,8 @@ Author - **Ayush *Kumar*\* Pahuja**
 
 @githubteacher
 
+/table
+
 ```markdown here
 hello
 
