@@ -7,9 +7,9 @@ Author - **Ayush *Kumar*\* Pahuja**
 2. mango
 3. banana
 
-   - cheeku
-      - papaya
-   - oranges
+   - [x] cheeku
+      - []papaya
+   - [✔️]oranges
 
 
 @Ayush-the-coder
