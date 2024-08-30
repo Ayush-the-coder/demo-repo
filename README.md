@@ -11,7 +11,13 @@ Author - **Ayush *Kumar*\* Pahuja**
       - papaya
    - oranges
 
+```markdown here
+hello
 
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
 
 > This is quoted text.
 
